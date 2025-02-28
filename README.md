@@ -71,6 +71,18 @@ service cloud.firestore {
 
 7. Add the following Cloud Storage Security Rules:
 
+8. #OUTPUT
+
+9. ![Image](https://github.com/user-attachments/assets/6b094e26-2922-4221-bdfc-596a2d4d996c)
+
+![Image](https://github.com/user-attachments/assets/b7c950bd-73de-4514-9e96-c249746191c6)
+
+![Image](https://github.com/user-attachments/assets/11cfe71d-6089-4a44-a2d6-64a687241651)
+
+![Image](https://github.com/user-attachments/assets/92b28e73-f6af-4d24-a4b4-23a20d1a87f3)
+
+![Image](https://github.com/user-attachments/assets/985181a1-58c6-4fc5-bb90-7cab15f41ba4)
+
 ```firebase
 rules_version = '2';
 
